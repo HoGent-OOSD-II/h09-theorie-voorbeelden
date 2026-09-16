@@ -1,0 +1,3 @@
+Laptop 850.0 2
+Smartphone 320.56 5
+Smartwatch 99.99 24
